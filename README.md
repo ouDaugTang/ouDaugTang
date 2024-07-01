@@ -43,9 +43,13 @@
 </div>
 <br>
 <br>
-<div style="display: flex; align: center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 195px;">
-<img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;" >
+	<div>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 195px;">
+	</div>
+	<div>
+		<img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true">
+	</div>
 </div>
 <br>
 
