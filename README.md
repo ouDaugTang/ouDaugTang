@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Eunseo's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling" />	
+	<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Jubbeom's%20%20Github&section=header&textBg=false&fontColor=00AAFF&fontSize=50&animation=twinkling" />	
 </div>
 
 <div align="center">
@@ -44,8 +44,8 @@
 <br>
 <div align="center">
 <p>	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang-inu&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang-inu&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true">
 </p>
 </div>
 <br>
