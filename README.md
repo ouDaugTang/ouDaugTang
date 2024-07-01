@@ -43,14 +43,13 @@
 </div>
 <br>
 <br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;" >
-	<div>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 195px;">
-	</div>
-	<div>
-		<img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true">
-	</div>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 195px;"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true"></td>
+  </tr>
+</table>
+
 <br>
 
 
