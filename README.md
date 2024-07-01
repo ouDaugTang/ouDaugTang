@@ -44,7 +44,7 @@
 <br>
 <div align="center">
 <p>	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: auto;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 100px;">
 <img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true">
 </p>
 </div>
