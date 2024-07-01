@@ -43,7 +43,7 @@
 </div>
 <br>
 <br>
-<div align="center" style="display: flex;">
+<div style="display: flex; align: center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 195px;">
 <img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true">
 </div>
