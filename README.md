@@ -44,7 +44,7 @@
 
 <br>
 
-<table border="0">
+<table >
   <tr border="0">
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 195px;"></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true"></td>
