@@ -43,11 +43,9 @@
 </div>
 <br>
 <br>
-<div align="center">
-<div style="display: flex;">	
+<div align="center" style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDaugTang&layout=compact" style="height: 195px;">
 <img src="https://github-readme-stats.vercel.app/api?username=ouDaugTang&show_icons=true">
-</div>
 </div>
 <br>
 
